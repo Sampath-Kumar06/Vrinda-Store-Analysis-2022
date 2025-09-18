@@ -37,11 +37,8 @@ Top Channels: Amazon 36% (~₹40M), Myntra 23% (~₹26M), Flipkart 22% (~₹25M)
 ✅ Business Recommendations
 
 Focus on women-centric products like Sets & Kurtas
+Strengthen partnerships with Amazon & Myntra
+Target high-performing states with localized marketing campaigns
 
 📊 Dashboard Preview
 <img width="1705" height="612" alt="image" src="https://github.com/user-attachments/assets/615465fd-a399-4d30-9aa0-74d409c26711" />
-
-
-Strengthen partnerships with Amazon & Myntra
-
-Target high-performing states with localized marketing campaigns
